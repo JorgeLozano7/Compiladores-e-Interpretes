@@ -1,0 +1,3 @@
+Texto de archivo 
+if x=189 then angelEsAdmin else jorgeEsAdmin
+abc
